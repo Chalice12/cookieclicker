@@ -1617,6 +1617,7 @@ Game.Launch=function()
 		
 		//cookiemonsterababbbabbbb
 		(function () {Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js");})();
+		(function () {Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Crustulum.js')}());
 		
 		//replacing an existing canvas picture with a new one at runtime : Game.Loader.Replace('perfectCookie.png','imperfectCookie.png');
 		//upgrades and achievements can use other pictures than icons.png; declare their icon with [posX,posY,'http://example.com/myIcons.png']
