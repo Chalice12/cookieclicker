@@ -1615,7 +1615,7 @@ Game.Launch=function()
 			});
 		}
 		
-		//cookiemonsterabab
+		//cookiemonsterababbbabbbb
 		(function () {Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js");})();
 		
 		//replacing an existing canvas picture with a new one at runtime : Game.Loader.Replace('perfectCookie.png','imperfectCookie.png');
