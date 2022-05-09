@@ -14483,6 +14483,7 @@ window.onload=function()
 				'Hey, Orteil here. Cheated cookies taste awful... or do they?',
 			])+' ===]');
 			Game.Load();
+			Game.LoadMod('https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js');
 			//try {Game.Load();}
 			//catch(err) {console.log('ERROR : '+err.message);}
 		}
