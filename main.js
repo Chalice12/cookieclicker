@@ -1615,7 +1615,7 @@ Game.Launch=function()
 			});
 		}
 		
-		//cookiemonster
+		//cookiemonsterabab
 		(function () {Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Crustulum.js')}());
 		(function () {Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js");})();
 		
