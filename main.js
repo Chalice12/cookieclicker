@@ -2,7 +2,7 @@
 All this code is copyright Orteil, 2013-2020.
 	-with some help, advice and fixes by Nicholas Laux, Debugbro, Opti, and lots of people on reddit, Discord, and the DashNet forums
 	-also includes a bunch of snippets found on stackoverflow.com and others
-	-want to mod the game? scroll down to the "MODDING API" section
+	-want to mod the game? scroll down to the "MODDING API" section,
 Hello, and welcome to the joyous mess that is main.js. Code contained herein is not guaranteed to be good, consistent, or sane. Most of this is years old at this point and harkens back to simpler, cruder times. In particular I've tried to maintain compatibility with fairly old versions of javascript, which means luxuries such as 'let', arrow functions and string literals are unavailable. Have a nice trip.
 Spoilers ahead.
 http://orteil.dashnet.org
